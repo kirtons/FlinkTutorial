@@ -28,7 +28,6 @@ public class WindowTest2_CountWindow {
         });
 
         // 开窗测试
-
         // 计数窗口测试
         SingleOutputStreamOperator<Double> avgTempResultStream = dataStream.keyBy("id")
                 .countWindow(10, 2)
