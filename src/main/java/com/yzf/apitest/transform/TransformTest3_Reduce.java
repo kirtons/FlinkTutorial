@@ -1,6 +1,6 @@
 package com.yzf.apitest.transform;
 
-import com.yzf.com.yzf.apitest.beans.SensorReading;
+import com.yzf.apitest.beans.SensorReading;
 import org.apache.flink.api.common.functions.ReduceFunction;
 import org.apache.flink.api.java.tuple.Tuple;
 import org.apache.flink.streaming.api.datastream.DataStream;

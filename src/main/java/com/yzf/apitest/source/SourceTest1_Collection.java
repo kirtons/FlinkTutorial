@@ -1,8 +1,7 @@
-package com.yzf.com.yzf.apitest.source;
+package com.yzf.apitest.source;
 
-import com.yzf.com.yzf.apitest.beans.SensorReading;
+import com.yzf.apitest.beans.SensorReading;
 import org.apache.flink.streaming.api.datastream.DataStream;
-import org.apache.flink.streaming.api.datastream.DataStreamSource;
 import org.apache.flink.streaming.api.environment.StreamExecutionEnvironment;
 
 import java.util.Arrays;

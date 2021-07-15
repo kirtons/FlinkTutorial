@@ -1,4 +1,4 @@
-package com.yzf.com.yzf.apitest.beans;
+package com.yzf.apitest.beans;
 
 /**
  * @author ：zhangyu
